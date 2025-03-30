@@ -1,0 +1,4 @@
+hypothesis
+ruff
+pytest
+mypy
